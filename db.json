@@ -412,9 +412,10 @@
       "msg": "Included with FB Plus!"
     }
   ],
-  "passes": [
+  "store": [
     {
       "id": 1,
+      "category": "pass",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-16-1-day-pass-a272.jpg",
       "name": "FB PLUS PASS",
       "description": "1-Day Pass",
@@ -422,6 +423,7 @@
     },
     {
       "id": 2,
+      "category": "pass",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-15-7-day-pass-8070.jpg",
       "name": "FB PLUS PASS",
       "description": "7-Day Pass",
@@ -429,6 +431,7 @@
     },
     {
       "id": 3,
+      "category": "pass",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-14-14-day-pass-b885.jpg",
       "name": "FB PLUS PASS",
       "description": "14-Day Pass",
@@ -436,6 +439,7 @@
     },
     {
       "id": 4,
+      "category": "pass",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-13-30-day-pass-9318.jpg",
       "name": "FB PLUS PASS",
       "description": "30-Day Pass",
@@ -443,50 +447,58 @@
     },
     {
       "id": 5,
+      "category": "pass",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-12-90-day-pass-89f6.jpg",
       "name": "FB PLUS PASS",
       "description": "90-Day Pass",
       "price": 2500
-    }
-  ],
-  "gift": [
+    },
+
     {
-      "id": 1,
+      "id": 6,
+      "category": "gift",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-1-10-egift-card-84c3.jpg",
       "price": 800
     },
     {
-      "id": 2,
+      "id": 7,
+      "category": "gift",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-2-20-egift-card-a464.jpg",
       "price": 1600
     },
     {
-      "id": 3,
+      "id": 8,
+      "category": "gift",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-3-30-egift-card-a760.jpg",
       "price": 2400
     },
     {
-      "id": 4,
+      "id": 9,
+      "category": "gift",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-4-40-egift-card-a504.jpg",
       "price": 3200
     },
     {
-      "id": 5,
+      "id": 10,
+      "category": "gift",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-5-50-egift-card-8e17.jpg",
       "price": 4000
     },
     {
-      "id": 6,
+      "id": 11,
+      "category": "gift",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-6-75-egift-card-b723.jpg",
       "price": 6000
     },
     {
-      "id": 7,
+      "id": 12,
+      "category": "gift",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-8-7999-egift-card-limited-bece.jpg",
       "price": 6500
     },
     {
-      "id": 8,
+      "id": 13,
+      "category": "gift",
       "image": "https://d18zdz9g6n5za7.cloudfront.net/products/320/320-7-100-egift-card-8673.jpg",
       "price": 8000
     }
